@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arpan Biswal  
 
-![Data Analyst](https://raw.githubusercontent.com/arpann84/yourrepository/main/banner.jpg)
+![Data Analyst](https://raw.githubusercontent.com/arpann84/arpann84/main/banner.jpg)
 
 ## 🚀 About Me  
 I am a **Data Analyst / Business Intelligence Analyst** with a passion for turning raw data into meaningful insights. With **6+ years of experience**, I specialize in **SQL, Tableau, Python, ETL, EDA, and AWS** to drive data-driven decision-making and make business impact.   
