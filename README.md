@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]  
+# 👋 Hi there, I'm Arpan Biswal  
 
 ![Data Analyst](https://source.unsplash.com/1600x400/?data,technology,analytics)  
 
