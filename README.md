@@ -22,8 +22,7 @@ I am a **Data Analyst / Business Intelligence Analyst** with a passion for turni
 ---
 
 ## 📂 Featured Projects  
-### 🔹 [Project 1: Sales Forecasting Using Machine Learning](https://github.com/yourusername/project1)  
-🔹 Built a predictive model achieving **94% accuracy** in forecasting sales trends  
+### 🔹 [Project 1: End-to-End-Data-Science-Project-Time-Series-Analysis-for-Temperature-Forecasting](https://github.com/arpann84/End-to-End-Data-Science-Project-Time-Series-Analysis-for-Temperature-Forecasting-using-ARIMA-Model)  
 🔹 Utilized **Python, Pandas, Scikit-learn, and SQL**  
 
 ### 🔹 [Project 2: Interactive Business Dashboard](https://github.com/yourusername/project2)  
