@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arpan Biswal  
 
-![Data Analyst](https://source.unsplash.com/1600x400/?data,technology,analytics)  
+<img src="https://source.unsplash.com/1600x400/?data,technology,analytics" alt="Data Analyst Banner" width="100%">
 
 ## 🚀 About Me  
 I am a **Data Analyst / Business Intelligence Analyst** with a passion for turning raw data into meaningful insights. With **6+ years of experience**, I specialize in **SQL, Tableau, Python, ETL, EDA, and AWS** to drive data-driven decision-making and make business impact.   
