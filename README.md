@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 I am a **Data Analyst / Business Intelligence Analyst** with a passion for turning raw data into meaningful insights. With **6+ years of experience**, I specialize in **SQL, Tableau, Python, ETL, EDA, and AWS** to drive data-driven decision-making and make business impact.   
 
-📍 Currently based in **Salzburg, Austria** | Previously worked in **Berlin, Germany**  
+📍 Currently based in **Düsseldorf, Germany** | Previously worked in **Berlin, Germany**  
 
 ## 🔧 Tech Stack  
 🛢 **Databases**: SQL (PostgreSQL, MySQL, SQL Server)  
